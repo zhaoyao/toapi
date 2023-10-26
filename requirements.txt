@@ -19,3 +19,4 @@ pytest-pep8
 pytest-cov
 webtest
 codecov
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
